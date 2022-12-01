@@ -1,4 +1,4 @@
 #include <stdio.h>
 void main(){
-    printf("Hello! I am a Shoyshob and I am also Programmer");
+    printf("Hello! I am a Shoyshob");
 }
